@@ -1,3 +1,5 @@
+
+
 This project allows for a quick and cheap (if you already have the laser) project to teach a little bit of circuit making, no soldering required.
 
 It is inspired by Jakob Schaeffer's design. Champaign Urbana Community Fab Lab and the Wagner Family Fab Lab held a skill share and we loved Jake's LED activity, so we made our own.
