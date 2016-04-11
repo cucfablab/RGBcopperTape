@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <img width="400px" src="photos/RGBproto2_6.jpg"/>
 <p>
 This project allows for a quick and cheap (if you already have the laser) project to teach a little bit of circuit making, no soldering required.
